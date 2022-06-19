@@ -9,6 +9,7 @@ KELAS            = TI 20 D1
 
 MATA KULIAH      = PEMOGRAMAN WEB
 
+![lab7box](https://user-images.githubusercontent.com/101880835/174500181-fa583e9c-26cb-4723-80cd-08ce9b2ae15d.png)
 
 
 Persiapan membuat dokumen HTML dengan nama file lab4_box.html seperti berikut.
