@@ -72,17 +72,25 @@ Lihat hasilnya dibrowser.
 Pertanyaan dan Tugas
 
 1. Tambahkan Layout untuk menu About
+
 => buat single layout yang berisi deskripsi, portfolio, dll
-![about berhasil](https://user-images.githubusercontent.com/101880835/174500147-d06f6f51-4cb2-43a3-92d9-30968d95d064.png)
 
 Tambahkan kode pada file css.
+
+![about](https://user-images.githubusercontent.com/101880835/174500261-7f13d388-183e-4a14-86d4-1574e3940eb6.png)
+
+Lihat hasilnya dibrowser.
+![about berhasil](https://user-images.githubusercontent.com/101880835/174500147-d06f6f51-4cb2-43a3-92d9-30968d95d064.png)
 
 Lihat hasilnya dibrowser.
 
 2. Tambahkan layout untuk menu Contact
+
 => yang berisi form isian: nama, email, message, dll
 
-![kontak](https://user-images.githubusercontent.com/101880835/174500119-c677f852-86c3-4a06-8863-a125c41a1adc.png)
-
 Tambahkan kode pada file css.
+![kontak](https://user-images.githubusercontent.com/101880835/174500265-7ed399c8-517f-42f9-8370-902c43b4b914.png)
 
+Lihat hasilnya di browser
+
+![kontak](https://user-images.githubusercontent.com/101880835/174500119-c677f852-86c3-4a06-8863-a125c41a1adc.png)
