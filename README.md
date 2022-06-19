@@ -9,10 +9,9 @@ KELAS            = TI 20 D1
 
 MATA KULIAH      = PEMOGRAMAN WEB
 
-![lab7box](https://user-images.githubusercontent.com/101880835/174500181-fa583e9c-26cb-4723-80cd-08ce9b2ae15d.png)
-
-
 Persiapan membuat dokumen HTML dengan nama file lab4_box.html seperti berikut.
+
+![lab7box](https://user-images.githubusercontent.com/101880835/174500154-db6a5ad8-b311-41b9-88c3-2df00d9a81d0.png)
 
 1. Membuat Box Element
 
@@ -29,6 +28,8 @@ Selanjutnya tambahkan deklarasi CSS pada head untuk membuat float element.
 Clearfix digunakan untuk mengatur element setelah float element. Property clear digunakan untuk mengaturnya.
 
 4. Selanjutnya buka browser dan refresh kembali.
+
+![box elemen finish](https://user-images.githubusercontent.com/101880835/174500117-656c1744-f2a1-445d-b420-78ff0f6a68de.png)
 
 
 
@@ -72,6 +73,7 @@ Pertanyaan dan Tugas
 
 1. Tambahkan Layout untuk menu About
 => buat single layout yang berisi deskripsi, portfolio, dll
+![about berhasil](https://user-images.githubusercontent.com/101880835/174500147-d06f6f51-4cb2-43a3-92d9-30968d95d064.png)
 
 Tambahkan kode pada file css.
 
@@ -79,6 +81,8 @@ Lihat hasilnya dibrowser.
 
 2. Tambahkan layout untuk menu Contact
 => yang berisi form isian: nama, email, message, dll
+
+![kontak](https://user-images.githubusercontent.com/101880835/174500119-c677f852-86c3-4a06-8863-a125c41a1adc.png)
 
 Tambahkan kode pada file css.
 
